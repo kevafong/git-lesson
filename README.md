@@ -1,6 +1,6 @@
-# Git lesseon
+# Git Lesson
 
-This leson covers the basics of using git for version control.
+This lesson covers the basics of using git for version control.
 
 This lesson is for the first day of the MSSE Bootcamp.
 
